@@ -206,7 +206,7 @@ class AcknowledgePurchaseOrderView(generics.UpdateAPIView):
 
 ## Testing or Using the API endpoints.
 ## what is cUrl:
-
+Client URL (cURL) lets you exchange data between your device and a server through a command-line interface (CLI). By simply specifying a server URL and the data to be sent, cURL enables diverse request forms, much like API tools like Postman and Insomnia, but directly from your terminal.
 
 ## what is httpie:
 HTTPie (pronounced aitch-tee-tee-pie) is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers
